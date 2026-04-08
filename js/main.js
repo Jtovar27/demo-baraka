@@ -25,7 +25,7 @@ const translations = {
     'hero.scroll':  'Scroll',
 
     /* DIFF SECTION */
-    'diff.label':   'Why Baraka',
+    'diff.label':   'Why Apex Home Design',
     'diff.h2':      'What Sets Us Apart',
     'diff.1.title': 'Personalized Attention',
     'diff.1.text':  'Every project begins with a listening session. We design around your life, not ours.',
@@ -44,8 +44,8 @@ const translations = {
     'approach.h2':     'Design with intention.\nBuilt with care.',
     'approach.lead':   'We believe your home should be a reflection of who you are. Not just a space — a feeling.',
     'approach.p1':     'Every project is a collaboration. We listen, we plan, and we execute with precision. From the first consultation to the final reveal, you are part of every decision.',
-    'approach.p2':     'Baraka Remodeling brings together artisan craftsmanship and modern design sensibility to create interiors that are both beautiful and deeply functional.',
-    'approach.cta':    'About Baraka',
+    'approach.p2':     'Apex Home Design brings together artisan craftsmanship and modern design sensibility to create interiors that are both beautiful and deeply functional.',
+    'approach.cta':    'About Apex Home Design',
 
     /* GALLERY */
     'gallery.label':   'Our Portfolio',
@@ -68,7 +68,7 @@ const translations = {
     /* TESTIMONIALS */
     'testimonials.label': 'Client Stories',
     'testimonials.h2':    'Trusted by Homeowners\nAcross Orlando',
-    'testimonials.1.q':   'Baraka completely transformed our kitchen. The attention to detail, the communication throughout — everything was outstanding.',
+    'testimonials.1.q':   'Apex Home Design completely transformed our kitchen. The attention to detail, the communication throughout — everything was outstanding.',
     'testimonials.1.name': 'Maria Rodriguez',
     'testimonials.1.loc':  'Orlando, FL',
     'testimonials.2.q':   'We were nervous about the renovation, but the team put us at ease from day one. The result exceeded every expectation.',
@@ -81,7 +81,7 @@ const translations = {
     /* CTA SECTION */
     'cta.label':   'Ready to Begin?',
     'cta.h2':      'Let\'s Design Your Dream Space.',
-    'cta.lead':    'Schedule a free initial consultation and discover what Baraka can do for your home.',
+    'cta.lead':    'Schedule a free initial consultation and discover what Apex Home Design can do for your home.',
     'cta.btn1':    'Book a Consultation',
     'cta.btn2':    'WhatsApp Us',
 
@@ -106,14 +106,14 @@ const translations = {
     'footer.email':   'hello@barakaremodeling.com',
     'footer.address': '4750 Millenia Blvd, Suite 214\nOrlando, FL 32839',
     'footer.hours':   'Mon–Fri: 9am – 6pm',
-    'footer.copy':    '© 2026 Baraka Remodeling. All rights reserved.',
+    'footer.copy':    '© 2026 Apex Home Design. All rights reserved.',
     'footer.loc':     'Orlando, FL',
 
     /* ABOUT PAGE */
     'about.label':     'Our Story',
     'about.h1':        'Built on Trust,\nDesigned for Living.',
     'about.hero.label':'About Us',
-    'about.p1':        'Baraka Remodeling was founded with a simple but powerful belief: every home deserves to be beautiful, functional, and deeply personal.',
+    'about.p1':        'Apex Home Design was founded with a simple but powerful belief: every home deserves to be beautiful, functional, and deeply personal.',
     'about.p2':        'Based in Orlando, Florida, we specialize in residential interior remodeling and design — bringing together skilled craftsmanship, premium materials, and a genuine commitment to our clients.',
     'about.p3':        'From a kitchen renovation that changes the rhythm of your mornings, to a master bathroom that becomes your personal retreat — we design with intention and build with care.',
     'about.mission.label': 'Mission',
@@ -191,13 +191,13 @@ const translations = {
     /* FAQ PAGE */
     'faq.hero.label': 'Support',
     'faq.h1':         'Frequently Asked Questions',
-    'faq.intro':      'Everything you need to know about working with Baraka Remodeling.',
+    'faq.intro':      'Everything you need to know about working with Apex Home Design.',
     'faq.q1': 'Do you work only in Orlando?',
     'faq.a1': 'Our primary service area is Orlando and the surrounding communities, including Winter Park, Dr. Phillips, Lake Nona, Windermere, Oviedo, and more. We occasionally take on projects in other Central Florida areas — contact us to discuss your location.',
     'faq.q2': 'How does the initial consultation work?',
     'faq.a2': 'The first consultation is free and commitment-free. We visit your space, listen to your vision, assess the scope of work, and discuss your budget and timeline. After that, we present a formal proposal with our approach and investment.',
     'faq.q3': 'Can you help with both design and remodeling?',
-    'faq.a3': 'Absolutely. Baraka is a full-service studio — we handle interior design, material sourcing, and the physical remodeling work. You work with one team, one vision, from start to finish.',
+    'faq.a3': 'Absolutely. Apex Home Design is a full-service studio — we handle interior design, material sourcing, and the physical remodeling work. You work with one team, one vision, from start to finish.',
     'faq.q4': 'Do I need an appointment for a consultation?',
     'faq.a4': 'Yes, we work by appointment to ensure dedicated time and attention for every client. You can book directly through our website, via Calendly, or by contacting us on WhatsApp.',
     'faq.q5': 'How long does a typical project take?',
@@ -244,7 +244,7 @@ const translations = {
     'contact.calendly.placeholder': 'Calendly scheduling widget will appear here',
 
     /* CHATBOT */
-    'chat.welcome.en': 'Hi! I\'m Baraka\'s virtual assistant. I can help you explore our services or schedule a consultation.',
+    'chat.welcome.en': 'Hi! I\'m Apex Home Design\'s virtual assistant. I can help you explore our services or schedule a consultation.',
     'chat.chip1': 'Services',
     'chat.chip2': 'Schedule',
     'chat.chip3': 'Contact',
@@ -276,7 +276,7 @@ const translations = {
     'hero.scroll':  'Descubrir',
 
     /* DIFF SECTION */
-    'diff.label':   'Por Qué Baraka',
+    'diff.label':   'Por Qué Apex Home Design',
     'diff.h2':      'Lo Que Nos Distingue',
     'diff.1.title': 'Atención Personalizada',
     'diff.1.text':  'Cada proyecto comienza escuchándote. Diseñamos alrededor de tu vida, no de la nuestra.',
@@ -295,8 +295,8 @@ const translations = {
     'approach.h2':     'Diseño con intención.\nEjecución con cuidado.',
     'approach.lead':   'Creemos que tu hogar debe reflejar quién eres. No solo un espacio — una sensación.',
     'approach.p1':     'Cada proyecto es una colaboración. Escuchamos, planificamos y ejecutamos con precisión. Desde la primera consulta hasta la entrega final, formas parte de cada decisión.',
-    'approach.p2':     'Baraka Remodeling une artesanía y sensibilidad de diseño moderno para crear interiores que son bellos y profundamente funcionales.',
-    'approach.cta':    'Conoce a Baraka',
+    'approach.p2':     'Apex Home Design une artesanía y sensibilidad de diseño moderno para crear interiores que son bellos y profundamente funcionales.',
+    'approach.cta':    'Conoce a Apex Home Design',
 
     /* GALLERY */
     'gallery.label':   'Nuestro Portafolio',
@@ -319,7 +319,7 @@ const translations = {
     /* TESTIMONIALS */
     'testimonials.label': 'Historias de Clientes',
     'testimonials.h2':    'La Confianza de Propietarios\nen Todo Orlando',
-    'testimonials.1.q':   'Baraka transformó completamente nuestra cocina. La atención al detalle, la comunicación durante todo el proceso — todo fue excepcional.',
+    'testimonials.1.q':   'Apex Home Design transformó completamente nuestra cocina. La atención al detalle, la comunicación durante todo el proceso — todo fue excepcional.',
     'testimonials.1.name': 'María Rodríguez',
     'testimonials.1.loc':  'Orlando, FL',
     'testimonials.2.q':   'Estábamos nerviosos con la remodelación, pero el equipo nos dio confianza desde el primer día. El resultado superó todas nuestras expectativas.',
@@ -332,7 +332,7 @@ const translations = {
     /* CTA SECTION */
     'cta.label':   '¿Listo para Comenzar?',
     'cta.h2':      'Diseñemos el Espacio de tus Sueños.',
-    'cta.lead':    'Agenda una consulta inicial gratuita y descubre lo que Baraka puede hacer por tu hogar.',
+    'cta.lead':    'Agenda una consulta inicial gratuita y descubre lo que Apex Home Design puede hacer por tu hogar.',
     'cta.btn1':    'Agendar Consulta',
     'cta.btn2':    'Escríbenos por WhatsApp',
 
@@ -357,14 +357,14 @@ const translations = {
     'footer.email':   'hello@barakaremodeling.com',
     'footer.address': '4750 Millenia Blvd, Suite 214\nOrlando, FL 32839',
     'footer.hours':   'Lun–Vie: 9am – 6pm',
-    'footer.copy':    '© 2026 Baraka Remodeling. Todos los derechos reservados.',
+    'footer.copy':    '© 2026 Apex Home Design. Todos los derechos reservados.',
     'footer.loc':     'Orlando, FL',
 
     /* ABOUT PAGE */
     'about.label':     'Nuestra Historia',
     'about.h1':        'Construido en Confianza,\nDiseñado para Vivir.',
     'about.hero.label':'Nosotros',
-    'about.p1':        'Baraka Remodeling nació con una creencia simple pero poderosa: cada hogar merece ser bello, funcional y profundamente personal.',
+    'about.p1':        'Apex Home Design nació con una creencia simple pero poderosa: cada hogar merece ser bello, funcional y profundamente personal.',
     'about.p2':        'Con base en Orlando, Florida, nos especializamos en remodelación e interiorismo residencial — uniendo artesanía de calidad, materiales premium y un compromiso genuino con nuestros clientes.',
     'about.p3':        'Desde una renovación de cocina que cambia el ritmo de tus mañanas, hasta un baño principal que se convierte en tu retiro personal — diseñamos con intención y construimos con cuidado.',
     'about.mission.label': 'Misión',
@@ -442,13 +442,13 @@ const translations = {
     /* FAQ PAGE */
     'faq.hero.label': 'Soporte',
     'faq.h1':         'Preguntas Frecuentes',
-    'faq.intro':      'Todo lo que necesitas saber sobre trabajar con Baraka Remodeling.',
+    'faq.intro':      'Todo lo que necesitas saber sobre trabajar con Apex Home Design.',
     'faq.q1': '¿Trabajan solo en Orlando?',
     'faq.a1': 'Nuestra área principal de servicio es Orlando y las comunidades cercanas, incluyendo Winter Park, Dr. Phillips, Lake Nona, Windermere, Oviedo y más. Ocasionalmente aceptamos proyectos en otras áreas del centro de Florida — contáctanos para hablar sobre tu ubicación.',
     'faq.q2': '¿Cómo funciona la consulta inicial?',
     'faq.a2': 'La primera consulta es gratuita y sin compromiso. Visitamos tu espacio, escuchamos tu visión, evaluamos el alcance del trabajo y conversamos sobre tu presupuesto y cronograma. Después de eso, te presentamos una propuesta formal con nuestro enfoque e inversión.',
     'faq.q3': '¿Pueden ayudar tanto con el diseño como con la remodelación?',
-    'faq.a3': 'Absolutamente. Baraka es un estudio de servicio completo — manejamos el diseño de interiores, la selección de materiales y el trabajo físico de remodelación. Trabajas con un solo equipo, una sola visión, de principio a fin.',
+    'faq.a3': 'Absolutamente. Apex Home Design es un estudio de servicio completo — manejamos el diseño de interiores, la selección de materiales y el trabajo físico de remodelación. Trabajas con un solo equipo, una sola visión, de principio a fin.',
     'faq.q4': '¿Necesito cita para una consulta?',
     'faq.a4': 'Sí, trabajamos con cita para garantizar tiempo y atención dedicados a cada cliente. Puedes agendar directamente desde nuestro sitio web, vía Calendly, o contactándonos por WhatsApp.',
     'faq.q5': '¿Cuánto tiempo toma un proyecto típico?',
@@ -495,7 +495,7 @@ const translations = {
     'contact.calendly.placeholder': 'El widget de Calendly aparecerá aquí',
 
     /* CHATBOT */
-    'chat.welcome.es': 'Hola, soy el asistente virtual de Baraka. Puedo ayudarte a conocer nuestros servicios o agendar una cita.',
+    'chat.welcome.es': 'Hola, soy el asistente virtual de Apex Home Design. Puedo ayudarte a conocer nuestros servicios o agendar una cita.',
     'chat.chip1': 'Servicios',
     'chat.chip2': 'Agendar',
     'chat.chip3': 'Contacto',
