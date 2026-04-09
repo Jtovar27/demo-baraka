@@ -1,5 +1,5 @@
 /* ============================================================
-   BARAKA REMODELING — MAIN JAVASCRIPT
+   APEX HOME DESIGN — MAIN JAVASCRIPT
    ============================================================ */
 
 'use strict';
@@ -103,7 +103,7 @@ const translations = {
     'footer.terms':   'Terms of Service',
     'footer.contact': 'Contact',
     'footer.phone':   '+1 (407) 555-0198',
-    'footer.email':   'hello@barakaremodeling.com',
+    'footer.email':   'hello@apexhomedesign.com',
     'footer.address': '4750 Millenia Blvd, Suite 214\nOrlando, FL 32839',
     'footer.hours':   'Mon–Fri: 9am – 6pm',
     'footer.copy':    '© 2026 Apex Home Design. All rights reserved.',
@@ -251,7 +251,7 @@ const translations = {
     'chat.chip4': 'Pricing',
     'chat.r.services': 'We offer Interior Remodeling, Kitchen & Bathroom Renovation, Interior Design, and Design Consultations. Would you like to know more about any of these?',
     'chat.r.schedule': 'You can book a free consultation on our Contact page, or reach us directly on WhatsApp. Would you like the link?',
-    'chat.r.contact':  'You can call us at +1 (407) 555-0198, email hello@barakaremodeling.com, or message us on WhatsApp anytime!',
+    'chat.r.contact':  'You can call us at +1 (407) 555-0198, email hello@apexhomedesign.com, or message us on WhatsApp anytime!',
     'chat.r.pricing':  'Pricing depends on the scope of your project. We provide a detailed proposal after the initial consultation — which is always free!',
     'chat.r.default':  'Great question! For more details, I\'d recommend scheduling a free consultation or reaching out on WhatsApp. We\'re happy to help.',
     'chat.placeholder': 'Type a message…',
@@ -354,7 +354,7 @@ const translations = {
     'footer.terms':   'Términos de Servicio',
     'footer.contact': 'Contacto',
     'footer.phone':   '+1 (407) 555-0198',
-    'footer.email':   'hello@barakaremodeling.com',
+    'footer.email':   'hello@apexhomedesign.com',
     'footer.address': '4750 Millenia Blvd, Suite 214\nOrlando, FL 32839',
     'footer.hours':   'Lun–Vie: 9am – 6pm',
     'footer.copy':    '© 2026 Apex Home Design. Todos los derechos reservados.',
@@ -502,7 +502,7 @@ const translations = {
     'chat.chip4': 'Precios',
     'chat.r.services': 'Ofrecemos Remodelación de Interiores, Renovación de Cocinas y Baños, Diseño de Interiores y Consultas de Diseño. ¿Te gustaría saber más sobre alguno?',
     'chat.r.schedule': 'Puedes agendar una consulta gratuita en nuestra página de Contacto, o escribirnos directamente por WhatsApp. ¿Te envío el enlace?',
-    'chat.r.contact':  '¡Claro! Llámanos al +1 (407) 555-0198, escríbenos a hello@barakaremodeling.com o mándanos un mensaje por WhatsApp cuando gustes.',
+    'chat.r.contact':  '¡Claro! Llámanos al +1 (407) 555-0198, escríbenos a hello@apexhomedesign.com o mándanos un mensaje por WhatsApp cuando gustes.',
     'chat.r.pricing':  'El precio depende del alcance de tu proyecto. Después de la consulta inicial — que siempre es gratuita — te entregamos una propuesta detallada.',
     'chat.r.default':  '¡Buena pregunta! Para más detalles, te recomendamos agendar una consulta gratuita o escribirnos por WhatsApp. Con gusto te ayudamos.',
     'chat.placeholder': 'Escribe un mensaje…',
@@ -510,7 +510,7 @@ const translations = {
 };
 
 /* === LANGUAGE MANAGER === */
-let currentLang = localStorage.getItem('baraka-lang') || 'es';
+let currentLang = localStorage.getItem('apex-lang') || 'es';
 
 function t(key) {
   return translations[currentLang][key] || translations['en'][key] || key;
@@ -544,7 +544,7 @@ function applyTranslations() {
 
 function setLang(lang) {
   currentLang = lang;
-  localStorage.setItem('baraka-lang', lang);
+  localStorage.setItem('apex-lang', lang);
   applyTranslations();
 }
 
